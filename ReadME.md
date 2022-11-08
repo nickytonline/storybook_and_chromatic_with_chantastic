@@ -2,6 +2,8 @@
 
 Michael Chan a.k.a. Chantastic joins Nick Taylor on stream to discuss and live code with [Storybook](https://storybook.js.org) and [Chromatic](https://www.chromatic.com).
 
+This demo project was created by running `npx storybook repro`. (See https://storybook.js.org/docs/react/contribute/how-to-reproduce#initial-setup)
+
 <a href="https://www.youtube.com/watch?v=UNzC-pNekMc">
 <img src="chan-storybook-chromatic.png" alt="Storybook & Chromatic with iamdeveloper.live guest Chantastic" />
 </a>
